@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterVectorDrawable", "BetterVectorDrawable\BetterVectorDrawable.csproj", "{7B7F25B3-64AC-4626-8C21-8CDD94E7A0ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinBetterVectorDrawableApp", "XamarinBetterVectorDrawableApp\XamarinBetterVectorDrawableApp.csproj", "{36A80957-3F65-4606-A4C9-290BBD74A7C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A80957-3F65-4606-A4C9-290BBD74A7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A80957-3F65-4606-A4C9-290BBD74A7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A80957-3F65-4606-A4C9-290BBD74A7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A80957-3F65-4606-A4C9-290BBD74A7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7F25B3-64AC-4626-8C21-8CDD94E7A0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7F25B3-64AC-4626-8C21-8CDD94E7A0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7F25B3-64AC-4626-8C21-8CDD94E7A0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7F25B3-64AC-4626-8C21-8CDD94E7A0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
