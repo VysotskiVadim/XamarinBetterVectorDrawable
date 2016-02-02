@@ -1,6 +1,9 @@
 #Autosave files
 *~
 
+#Resource designer
+XamarinBetterVectorDrawableApp/Resources/Resource.designer.cs
+
 #build
 [Oo]bj/
 [Bb]in/
