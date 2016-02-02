@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BetterVectorDrawable</id>
+    <version>0.8.0</version>
+    <title>BetterVectorDrawable</title>
+    <authors>Vadzim Vysotski</authors>
+    <owners>Vadzim Vysotski</owners>
+    <projectUrl>https://github.com/VysotskiVadim/XamarinBetterVectorDrawable</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin android binding for BetterVectorDrawable.</description>
+    <releaseNotes>Create binding library for BetterVectorDrawable.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Xamarin Android Svg</tags>
+  </metadata>
+</package>
