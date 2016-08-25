@@ -1,3 +1,6 @@
+# [Obsolete]
+Android support library supports vector drawable since version 23.2.0 ([how to use](https://medium.com/@chrisbanes/appcompat-v23-2-age-of-the-vectors-91cbafa87c88#.s8ak3guum)), please use it instead of BetterVectorDrawable. BetterVectorDrawable still works, but isn't maintained any more.
+
 # XamarinBetterVectorDrawable
 The xamarin android binding for [BetterVectorDrawable](https://github.com/a-student/BetterVectorDrawable) library. Supports Android 4.0+ (API level 14 or greater).
 
